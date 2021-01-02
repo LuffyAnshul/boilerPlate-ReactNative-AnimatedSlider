@@ -17,6 +17,8 @@
     cd boilerPlate-ReactNative-AnimatedSlider
     npm install
     npm start
+    
+    add apiKey in ./config.js
 
 ### Dependencies
 
